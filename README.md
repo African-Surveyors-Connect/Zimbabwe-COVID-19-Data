@@ -5,7 +5,7 @@
  <a href="https://surveyor-jr.maps.arcgis.com/apps/opsdashboard/index.html#/8ef907d2658c44c6a143819aa7979b20/">https://surveyor-jr.maps.arcgis.com/apps/opsdashboard/index.html#/8ef907d2658c44c6a143819aa7979b20</a>
 
  ### Visual Dashboard (mobile):
- <a href="https://experience.arcgis.com/experience/dcb93cc7fe894ab79417852b3290c20b">https://experience.arcgis.com/experience/dcb93cc7fe894ab79417852b3290c20b</a>
+ <a href="https://experience.arcgis.com/experience/e6eb41418ae14567a41d9bd9c26fcb06/">https://experience.arcgis.com/experience/e6eb41418ae14567a41d9bd9c26fcb06/</a>
 
 
  ### Source Code for our Statistical Data Center
@@ -23,7 +23,7 @@
  ### Embed our dashboard  into your webpage:
 
  ```html
-<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="COVID-19" src="https://experience.arcgis.com/experience/dcb93cc7fe894ab79417852b3290c20b"></iframe></div>
+<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="COVID-19" src="https://experience.arcgis.com/experience/e6eb41418ae14567a41d9bd9c26fcb06/"></iframe></div>
  ```
 
  <b>Acknowledgements:</b>
