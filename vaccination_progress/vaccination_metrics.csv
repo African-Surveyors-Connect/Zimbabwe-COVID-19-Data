@@ -37,4 +37,6 @@ OBJECTID,date_reported,vac_name,new_doses_received,doses_administered,first_dose
 "37",2021/03/26 21:58:00,(Sinopharm),,"8675","6201","2474",,,,,,,,, ,Zimbabwe,surveyor_jr,2021/03/26 22:01:13,surveyor_jr,2021/03/26 22:01:13,fb64cbc9-943e-4829-ad1f-08044a25261b
 "38",2021/03/27 22:30:00,(Sinopharm),,"5769","4373","1396",,,,,,,,, ,Zimbabwe,surveyor_jr,2021/03/27 22:31:57,surveyor_jr,2021/03/27 22:31:57,db1d87fb-f9b0-4dec-931d-e27aae40d8c4
 "39",2021/03/28 22:35:00,(Sinopharm),,"5708","3045","2663",,,,,,,,, ,Zimbabwe,surveyor_jr,2021/03/28 22:36:44,surveyor_jr,2021/03/28 22:36:44,b6d96427-0f76-49d3-8c28-e89933f9a6b9
+"40",2021/03/29 20:05:00,COVAX,"35000",,,,,,,,,,,, ,Zimbabwe,surveyor_jr,2021/03/29 20:08:29,surveyor_jr,2021/03/29 20:08:29,8f9e884b-347e-4f6f-96c4-c7a0c093adb1
+"41",2021/03/29 22:25:00,(Sinopharm),,"2471","1240","1231",,,,,,,,, ,Zimbabwe,surveyor_jr,2021/03/29 22:26:39,surveyor_jr,2021/03/29 22:26:39,75c9cc7f-8f7b-49fc-9d74-e4fc78eed4a3
 "14",2021/03/04 21:24:00,(Sinopharm),,"2688","2688",,,,,,,,,, ,Zimbabwe,,2021/03/04 21:27:43,,2021/03/04 21:27:43,2bc208b8-68ca-4d60-ae79-23e38f0eb6eb
