@@ -42,4 +42,4 @@ We are grateful to the <b>Ministry of Health & Childcare of Zimbabwe</b> for mak
 <a href='https://www.paynow.co.zw/Payment/Link/?q=c2VhcmNoPWFkbWluJTQwYWZyaWNhbnN1cnZleW9ycy5jby56dyZhbW91bnQ9MC4wMCZyZWZlcmVuY2U9U3VydmV5LUNhbGN1bGF0aW9ucy1Eb25hdGlvbiZsPTA%3d' target='_blank'><img src='https://www.paynow.co.zw/Content/Buttons/Medium_buttons/button_donate_medium.png' style='border:0' /></a> 
 
 ### Contributors
-- Surveyor Jr [@surveyor_jr](https://twitter.com/surveyor_jr)
+- Surveyor Jr ...follow on twitter -->[@surveyor_jr](https://twitter.com/surveyor_jr)
