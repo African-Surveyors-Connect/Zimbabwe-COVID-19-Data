@@ -476,7 +476,7 @@ and Masvingo did not report). 2 COVID-19 deaths were reported today. All 2 death
 "436",2021/05/27 23:17:00,38854,35,2159,10,3,1.7,,,35,0,1592,36541,,,,,,,721,37,22,6,4,"Manicaland, Masvingo, Midlands, Mat North, Mat SOuth and Mash Central did not report today",5,648121
 "437",2021/05/28 03:55:00,38918,64,1833,22,1,3.5,,,64,0,1592,36563,,,,,,,762,47,32,5,2,Mat North and Arundel did not report today,8,656630
 "438",2021/05/29 23:24:00,38933,15,2032,15,1,0.7,,,15,0,1594,36578,,,,,,,761,46,33,6,2,,5,666786
-"439",2021/05/30 22:24:00,38944,11,762,13,0,1.4,,,10,1,1594,36591,,,,,,,759,52,33,11,3,"Mash West, Midlands, Mat South, Masvingo, Mash Central, St Anne's, Arundel and Wilkins did not report today",5,3969
+"439",2021/05/30 22:24:00,38944,11,762,13,0,1.4,,,10,1,1594,36591,,,,,,,759,52,33,11,3,"Mash West, Midlands, Mat South, Masvingo, Mash Central, St Anne's, Arundel and Wilkins did not report today",5,670755
 "440",2021/05/31 21:35:00,38961,17,1638,3,2,1,,,17,0,1594,36594,,,,,,,771,62,39,10,3,"Mash West, Midlands, Mat South, Masvingo, Mash Central, St Anne's, Arundel and Wilkins did not report today.",10,675678
 "441",2021/06/01 22:35:00,38998,37,2376,30,3,1.6,,,37,0,1599,36624,,,,,,,775,58,40,7,5,"Mat South, Mash West and Masvingo did not report today",6,2325
 "442",2021/06/02 20:46:00,39031,33,2582,37,0,1.3,,,33,0,1599,36661,,,,,,,771,58,39,9,3,All  reporting facilities submitted reports today.,7,682242
@@ -497,3 +497,10 @@ and Masvingo did not report). 2 COVID-19 deaths were reported today. All 2 death
 "457",2021/06/17 23:23:00,40927,371,3538,34,7,10.5,,,370,1,1647,37109,,,,,,,2171,108,67,13,5,"Mash West, Mash East, Midlands and Mat South did not report today.",23,698953
 "458",2021/06/18 22:51:00,41335,408,3819,34,9,10.7,,,408,0,1656,37143,,,,,,,2536,161,107,27,2,All centers reported today.,25,700244
 "459",2021/06/19 00:29:00,41628,293,2577,24,10,11.4,,,293,0,1666,37167,,,,,,,2795,188,99,35,10,The 10 reported deaths include 5 from Mash West that were reported in the last 4 days. All centers reported today.,44,701348
+"460",2021/06/20 22:00:00,41779,151,1200,17,6,12.6,,,151,0,1672,37184,,,,,,,2923,156,82,33,10,"Midlands, Mat North, Mat South and Mash East did not report today.",31,703065
+"461",2021/06/21 21:58:00,42195,416,3120,16,13,13.3,,,415,1,1685,37200,,,,,,,3310,174,86,36,5,"Kariba, Karoi, Chinhoyi and Kwekwe are all under lockdown. Midlands, Masvingo, Mash West did not report today.",47,704001
+"462",2021/06/22 22:04:00,42714,519,6523,88,6,8,,,519,0,1691,37288,,,,,,,3735,159,75,38,6,"Mat South, Mat North,  Manicaland and Mash West did not report today.",40,2157
+"463",2021/06/23 22:46:00,43480,766,5716,189,1,13.4,,,765,1,1692,37477,,,,,,,4311,241,133,36,9,Masvingo and Mash West did not report today.,63,715056
+"464",2021/06/24 23:02:00,44306,826,4888,47,17,16.9,,,825,1,1709,37524,,,,,,,5073,257,138,39,9,Masvingo did not report today. 6 of the deaths occurred over a period of 7-days and had not been reported.,74,725582
+"465",2021/06/25 08:01:00,45217,911,3120,80,12,29.2,,,911,0,1721,37604,,,,,,,5892,314,195,40,10,All centers reported today.,69,737483
+"466",2021/06/26 22:21:00,46018,801,4550,157,4,17.6,,,801,0,1725,37761,,,,,,,6532,355,201,30,7,All centers reported today,117,747330
