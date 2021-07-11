@@ -12,7 +12,7 @@
  You can find the repository which contains our source code for our <a href="https://github.com/Surveyor-Jr/COVID-19-DataCenter">COVID-19 Statistical Data Center</a> 
 
  ### Please cite our COVID-19 Zimbabwe Statistical Data Center for any use of this data in a publication:
- <a href="https://covid19.africansurveyors.net/zimbabwe.php/">COVID-19 Statistical Data Center</a>
+ <a href="https://covid19.africansurveyors.net/">COVID-19 Statistical Data Center</a>
 
  ### Provided by African Surveyors Connect:
  You visit our website on <a href="https://africansurveyors.net/">https://africansurveyors.net/</a> to find out more about what we do.
