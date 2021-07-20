@@ -1,7 +1,7 @@
 # COVID-19 Zimbabwe Data Cases By Province (Deprecated)
  This is the data repository for the  Novel Coronavirus Visual Dashboard operated by African Surveyors Connect and is based on daily updates for the Republic of Zimbabwe. 
 
- <strong>For Provincial Records, kidnyl refer to this new <a href="">Provincial Time Series</a> data which is a cumulation of all the daily cases as they are updated in our database systems. 
+ <strong>For Provincial Records, kidnyl refer to this new <a href="../time_series_data/daily_provincial_records.csv">Provincial Time Series</a> data which is a cumulation of all the daily cases as they are updated in our database systems. </strong>
 
  ### About Data
 We try as much as possible to update the data of this repository on a daily basis after publications by <strong>The Ministry of Health & Childcare</strong> on their social media platforms. 
