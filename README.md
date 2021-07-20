@@ -9,7 +9,22 @@
 
 
  ### Source Code for our Statistical Data Center
- You can find the repository which contains our source code for our <a href="https://github.com/Surveyor-Jr/COVID-19-DataCenter">COVID-19 Statistical Data Center</a> 
+ Our COVID-19 Database and sytems are hosted by [ArcGIS Online](https://arcgis.com) which feeds our main COVID-19 platform which you can access [here](https://covid19.africansurveyors.net/)
+
+
+ ### Latest Changes and Updates to Data
+ 
+ - Provincial Cases are now cumulative data as of *10-July-2021* which you can now directly access and query from the [time-series](/time_series_data) data
+ - Repository data will now be pushed to this repo at least twice a week. 
+ 
+
+ ### Our Dev Vision 
+
+In our mission to provide data for the Republic of Zimbabwe during these difficult times, we will not stop developing solutions and data for the nation. Here are some of our Dev targets which you can help contribute towards: 
+
+- WhatsApp Chatbot to deliver route locations to the [nearest vaccination or testing points](https://covid19.africansurveyors.net/apps/africageoportal::zimbabwe-vaccine-center-finder) in Zimbabwe
+- building prediction algorithms for hotspots and COVID-19 clusters to assist the Health Authorities in implementing counter measures for this pandemic. 
+
 
  ### Please cite our COVID-19 Zimbabwe Statistical Data Center for any use of this data in a publication:
  <a href="https://covid19.africansurveyors.net/">COVID-19 Statistical Data Center</a>
