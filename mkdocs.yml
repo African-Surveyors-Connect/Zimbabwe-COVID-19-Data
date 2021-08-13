@@ -1,0 +1,7 @@
+site_name: Zimbabwe COVID-19 Data
+theme:
+    name: readthedocs
+    highlightjs: true
+    hljs_languages:
+        - yaml
+        - rust
