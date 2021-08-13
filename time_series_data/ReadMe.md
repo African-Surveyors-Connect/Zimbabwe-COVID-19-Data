@@ -1,4 +1,8 @@
 # COVID-19 Zimbabwe Data Cases By Province
+
+|build-status| |docs| |coverage|
+
+
  This is the data repository for the  Novel Coronavirus Visual Dashboard operated by African Surveyors Connect and is based on daily updates for the Republic of Zimbabwe. 
 
  ### About Data
@@ -35,3 +39,18 @@ We are grateful to the <b>Ministry of Health & Childcare of Zimbabwe</b> for mak
 
 ### Donate to the African Surveyors Connect COVID-19 Project team:
 <a href='https://www.paynow.co.zw/Payment/Link/?q=c2VhcmNoPWFkbWluJTQwYWZyaWNhbnN1cnZleW9ycy5jby56dyZhbW91bnQ9MC4wMCZyZWZlcmVuY2U9U3VydmV5LUNhbGN1bGF0aW9ucy1Eb25hdGlvbiZsPTA%3d' target='_blank'><img src='https://www.paynow.co.zw/Content/Buttons/Medium_buttons/button_donate_medium.png' style='border:0' /></a> 
+
+
+.. |build-status| image:: https://circleci.com/gh/readthedocs/readthedocs.org.svg?style=svg
+    :alt: build status
+    :target: https://circleci.com/gh/readthedocs/readthedocs.org
+
+.. |docs| image:: https://readthedocs.org/projects/docs/badge/?version=latest
+    :alt: Documentation Status
+    :scale: 100%
+    :target: https://docs.readthedocs.io/en/latest/?badge=latest
+
+.. |coverage| image:: https://codecov.io/gh/readthedocs/readthedocs.org/branch/master/graph/badge.svg
+    :alt: Test coverage
+    :scale: 100%
+    :target: https://codecov.io/gh/readthedocs/readthedocs.org
