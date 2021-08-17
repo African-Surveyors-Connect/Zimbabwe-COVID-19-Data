@@ -7,8 +7,11 @@ import pandas as pd
 import time
 import datetime as dt
 
+# Imoort configuration file
+from decouple import config
+
 # Establish connection to GIS Server
-gis = GIS(url='https://arcgis.com', username='<username>', password='<password>')
+gis = GIS(url='https://arcgis.com', username=config('GIS_USERNAME'), password=config('GIS_PASSWORD'))
 
 # Get Vaccination Centers Layer
 vaccination_resources = gis.content.get("f464c7f46aea483694cf2ed13e6471f4")
@@ -73,4 +76,6 @@ total_time = round(df4['Total_Minutes'][0], 2)
 
 # print the result
 print("==========Route to Nearest Vaccination Center ================")
-print(f"Based on your location it will take you {total_time} minutes to travel to the nearest Vaccination Center which is {distance} kilometers. You estimated arrival time is {end_time}")
+print(f"Based on your location it will take you {total_time} minutes to travel" \
+      f"to the nearest Vaccination Center which is {distance} kilometers. Your ETA" \
+      f"is {end_time}")
