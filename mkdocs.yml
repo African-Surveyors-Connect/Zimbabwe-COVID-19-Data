@@ -1,7 +1,23 @@
 site_name: Zimbabwe COVID-19 Data
+site_url: http://zimbabwe-covid-19-data.readthedocs.io/
+repo_url: https://github.com/African-Surveyors-Connect/Zimbabwe-COVID-19-Data
+site_description: COVID-19 Hub for Zimbabwe documentatio guide for data-scientists, developers and users who have interests in exploring with the Coronavirus data for Zimbabwe
+site_author: Surveyor-Jr
+copyright: 2020 African Surveyors Connect | Developed and Written by <a href="https://github.com/Surveyor-Jr">Surveyor-Jr</a>
+nav: 
+    - Home: index.md
+    - Data API: Data_API_Integration.md
+    - Apps API: Apps_API.md
+    - COVID-Apps: Covid_Apps.md
+    - Tutorials: Tutorials.md
+    - Data Dictionary: Data_Dictionary.md
+    - Donations: Donations.md
+    - Credits: credits.md
 theme:
     name: readthedocs
     highlightjs: true
     hljs_languages:
         - yaml
         - rust
+
+
