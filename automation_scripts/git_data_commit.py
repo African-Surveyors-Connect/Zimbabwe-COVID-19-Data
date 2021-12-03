@@ -47,16 +47,15 @@ print("Data has been successfully updated")
 # from github import Github
 # from github import InputGitTreeElement
 
-# user = "Surveyor-Jr"
-# password = ""
+# user = "matingonk@gmail.com"
+# password = "nkm10636"
 # g = Github(user,password)
-# repo = g.get_user().get_repo('git-test') # repo name
+# repo = g.get_user().get_repo('Zimbabwe-COVID-19-Data') # repo name
 # file_list = [
 #     r'C:\Users\DELL\Desktop\GitHub Repositories\Zimbabwe-COVID-19-Data\time_series_data\daily_cumulative_records.csv',
 #     r'C:\Users\DELL\Desktop\GitHub Repositories\Zimbabwe-COVID-19-Data\vaccination_progress\vaccination_metrics.csv',
 #     r'C:\Users\DELL\Desktop\GitHub Repositories\Zimbabwe-COVID-19-Data\Provincial\current_prov_stats.csv',
 #     r'C:\Users\DELL\Desktop\GitHub Repositories\Zimbabwe-COVID-19-Data\time_series_data\daily_provincial_records.csv'
-
 # ]
 # file_names = [
 #     'daily_cumulative_records.csv',
@@ -64,7 +63,7 @@ print("Data has been successfully updated")
 #     'current_prov_stats.csv',
 #     'daily_provincial_records.csv'
 # ]
-# commit_message = 'python automated data update'
+# commit_message = 'latest data update'
 # master_ref = repo.get_git_ref('heads/master')
 # master_sha = master_ref.object.sha
 # base_tree = repo.get_git_tree(master_sha)
@@ -82,3 +81,8 @@ print("Data has been successfully updated")
 # parent = repo.get_git_commit(master_sha)
 # commit = repo.create_git_commit(commit_message, tree, [parent])
 # master_ref.edit(commit.sha)
+
+from gitpy import commitAdd, push
+
+commitAdd("latest-data")
+push()
