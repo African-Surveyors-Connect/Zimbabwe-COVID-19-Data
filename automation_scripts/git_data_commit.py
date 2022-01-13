@@ -39,8 +39,8 @@ prov_time_series_df = pd.DataFrame.spatial.from_layer(prov_time_series_layer)
 
 # convert the SDF to a CSV file
 infections_df.to_csv(r"C:\Users\DELL\Desktop\GitHub Repositories\Zimbabwe-COVID-19-Data\time_series_data\daily_cumulative_records.csv")
-vaccination_df.to_csv(r"C:\Users\DELL\Desktop\GitHub Repositories\Zimbabwe-COVID-19-Data\vaccination_progress\vaccination_metrics.csv")
-prov_vaccination_df.to_csv(r"C:\Users\DELL\Desktop\GitHub Repositories\Zimbabwe-COVID-19-Data\vaccination_progress\prov_vaccination_metrics.csv")
+vaccination_df.to_csv(r"C:\Users\DELL\Desktop\GitHub Repositories\Zimbabwe-COVID-19-Data\vaccination_progress\prov_vaccination_metrics.csv")
+prov_vaccination_df.to_csv(r"C:\Users\DELL\Desktop\GitHub Repositories\Zimbabwe-COVID-19-Data\vaccination_progress\vaccination_metrics.csv")
 provincial_df.to_csv(r"C:\Users\DELL\Desktop\GitHub Repositories\Zimbabwe-COVID-19-Data\Provincial\current_prov_stats.csv")
 prov_time_series_df.to_csv(r"C:\Users\DELL\Desktop\GitHub Repositories\Zimbabwe-COVID-19-Data\time_series_data\daily_provincial_records.csv")
 
