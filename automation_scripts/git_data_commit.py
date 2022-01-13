@@ -19,6 +19,8 @@ infections_layer = infections.layers[0]
 # retrieve the Vaccination Progress Times Series
 vaccination = gis.content.get("0bad4380917a48da8f4f12028709c443")
 vaccination_layer = vaccination.layers[2]
+# provincial vaccination 
+vaccination_layer_prov = vaccination.layers[0]
 
 # retrieve the Provincial Records
 provincial = gis.content.get("122efe4c5ab54ff9a9e75cc1908d48f4")
@@ -31,12 +33,14 @@ prov_time_series_layer = prov_time_series.layers[0]
 # create Spatial Dataframe objects
 infections_df = pd.DataFrame.spatial.from_layer(infections_layer)
 vaccination_df = pd.DataFrame.spatial.from_layer(vaccination_layer)
+prov_vaccination_df = pd.DataFrame.spatial.from_layer(vaccination_layer_prov)
 provincial_df = pd.DataFrame.spatial.from_layer(provincial_layer)
 prov_time_series_df = pd.DataFrame.spatial.from_layer(prov_time_series_layer)
 
 # convert the SDF to a CSV file
 infections_df.to_csv(r"C:\Users\DELL\Desktop\GitHub Repositories\Zimbabwe-COVID-19-Data\time_series_data\daily_cumulative_records.csv")
 vaccination_df.to_csv(r"C:\Users\DELL\Desktop\GitHub Repositories\Zimbabwe-COVID-19-Data\vaccination_progress\vaccination_metrics.csv")
+prov_vaccination_df.to_csv(r"C:\Users\DELL\Desktop\GitHub Repositories\Zimbabwe-COVID-19-Data\vaccination_progress\prov_vaccination_metrics.csv")
 provincial_df.to_csv(r"C:\Users\DELL\Desktop\GitHub Repositories\Zimbabwe-COVID-19-Data\Provincial\current_prov_stats.csv")
 prov_time_series_df.to_csv(r"C:\Users\DELL\Desktop\GitHub Repositories\Zimbabwe-COVID-19-Data\time_series_data\daily_provincial_records.csv")
 
