@@ -17,7 +17,7 @@ infections = gis.content.get("42ec33c9361d49b585a23d780207726d")
 infections_layer = infections.layers[0]
 
 # retrieve the Vaccination Progress Times Series
-vaccination = gis.content.get("0bad4380917a48da8f4f12028709c443")
+vaccination = gis.content.get("339f0b31dfbb49cf892e82bb5c2f94e4")
 vaccination_layer = vaccination.layers[2]
 # provincial vaccination 
 vaccination_layer_prov = vaccination.layers[0]
